@@ -1,2 +1,3 @@
-# Splash-Screen_Android
-Splash-Screen
+# Splash Screen
+
+  Splash Screen functionality...
